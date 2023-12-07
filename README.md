@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Barsha KC</h1>
-- 📫 How to reach me : <a href="mailto:kcbarsha78@gmail.com"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
