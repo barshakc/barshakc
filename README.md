@@ -26,7 +26,8 @@ I'm an **Electronics, Communication, and Information Engineering graduate** with
 I like writing about what I learn. Check out some of my blogs:  
 
 - [FastAPI for Beginners](https://barshakc.hashnode.dev/fastapi-for-beginners)
-- [Understanding Django's MVT structure](https://barshakc.hashnode.dev/understanding-djangos-mvt-architecture-a-beginners-guide)  
+- [Understanding Django's MVT structure](https://barshakc.hashnode.dev/understanding-djangos-mvt-architecture-a-beginners-guide)
+- [Running Background Tasks in Django Using Celery](https://barshakc.hashnode.dev/running-background-tasks-in-django-using-celery-redis-and-celery-beat)
 
 
 ---
