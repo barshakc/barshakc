@@ -1,6 +1,6 @@
 # Hi, I'm Barsha KC 👋
 
-I'm an **Electronics, Communication, and Information Engineering graduate** with a strong interest in Python development, backend systems, databases, and ETL workflows. I enjoy building projects, solving problems, and creating efficient solutions with code and data.
+I'm an **Engineering graduate** with a strong interest in Python development, backend systems, databases, and ETL workflows. I enjoy building projects, solving problems, and creating efficient solutions with code and data.
 
 ---
 
